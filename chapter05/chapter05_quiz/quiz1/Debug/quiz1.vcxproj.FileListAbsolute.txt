@@ -1,0 +1,2 @@
+C:\Users\Jinu\source\repos\C++\chapter05\chapter05_quiz\quiz1\Debug\quiz1.exe
+C:\Users\Jinu\source\repos\C++\chapter05\chapter05_quiz\quiz1\Debug\quiz1.pdb

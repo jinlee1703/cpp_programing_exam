@@ -1,0 +1,2 @@
+D:\source\repos\C++\chapter07\chapter07_quiz\quiz2_2\Debug\quiz2_2.exe
+D:\source\repos\C++\chapter07\chapter07_quiz\quiz2_2\Debug\quiz2_2.pdb

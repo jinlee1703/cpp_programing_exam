@@ -1,0 +1,4 @@
+﻿  BankingSystemVer06.cpp
+D:\source\repos\C++\Chapter08\BankingSystemVer06\BankingSystemVer06.cpp(95,26): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\source\repos\C++\Chapter08\BankingSystemVer06\BankingSystemVer06.cpp(113,26): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  BankingSystemVer06.vcxproj -> D:\source\repos\C++\Chapter08\BankingSystemVer06\Debug\BankingSystemVer06.exe

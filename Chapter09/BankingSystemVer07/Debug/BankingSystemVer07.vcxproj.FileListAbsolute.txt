@@ -1,0 +1,2 @@
+D:\source\repos\C++\Chapter09\BankingSystemVer07\Debug\BankingSystemVer07.exe
+D:\source\repos\C++\Chapter09\BankingSystemVer07\Debug\BankingSystemVer07.pdb

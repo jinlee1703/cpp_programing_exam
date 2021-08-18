@@ -1,0 +1,2 @@
+C:\Users\Jinu\source\repos\C++\chapter04\chapter04_5_exam\BankingSystemVer02\Debug\BankingSystemVer02.exe
+C:\Users\Jinu\source\repos\C++\chapter04\chapter04_5_exam\BankingSystemVer02\Debug\BankingSystemVer02.pdb

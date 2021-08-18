@@ -1,0 +1,2 @@
+C:\Users\Jinu\source\repos\C++\chapter05\chapter05_2_exam\ShallowCopyError\Debug\ShallowCopyError.exe
+C:\Users\Jinu\source\repos\C++\chapter05\chapter05_2_exam\ShallowCopyError\Debug\ShallowCopyError.pdb
